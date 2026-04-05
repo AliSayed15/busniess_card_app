@@ -18,11 +18,13 @@ This project demonstrates your ability to build responsive Flutter UIs and creat
 🛠️ Tech Stack
 Flutter
 Dart
+
 📂 Project Structure
 lib/
 ├── screens/        # Main UI screens
 ├── widgets/        # Reusable components
 └── main.dart       # Entry point
+
 🚀 Getting Started
 Prerequisites
 Flutter SDK
@@ -33,27 +35,32 @@ git clone https://github.com/AliSayed15/busniess_card_app.git
 cd busniess_card_app
 flutter pub get
 flutter run
+
 🎯 How It Works
 Launch the application
 View your digital business card
 Access contact details in a clean layout
 Use it as a simple personal branding tool
+
 📈 Future Improvements
 Add clickable actions (call / email) 📲
 Add social media links 🔗
 Add dark mode 🌙
 Allow dynamic data input ✏️
 Export/share card as image 📤
+
 👨‍💻 Author
 
 Ali El Sayed
 
 🔗 LinkedIn: https://www.linkedin.com/in/ali-elsayed-1a51a7216/
 💻 GitHub: https://github.com/AliSayed15
+
 🤝 Contributing
 
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
+
 
 📄 License
 

@@ -9,6 +9,7 @@ The Business Card App is a simple yet effective mobile application that represen
 This project demonstrates your ability to build responsive Flutter UIs and create visually appealing layouts suitable for real-world use cases.
 
 ✨ Features
+
 👤 Display personal information (name, title, etc.)
 📞 Show contact details (phone, email)
 🎨 Clean and modern UI design
